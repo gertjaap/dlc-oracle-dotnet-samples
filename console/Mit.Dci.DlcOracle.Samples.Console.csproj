@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\dlc-oracle-dotnet\Mit.Dci.DlcOracle.csproj" />
+   <ItemGroup>
+    <PackageReference Include="Mit.Dci.DlcOracle" Version="1.0.0" />
   </ItemGroup>
 
   <PropertyGroup>
